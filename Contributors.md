@@ -12,6 +12,7 @@
 - [Sreenadh Singamaneni](https://github.com/SreenadhSingamaneni)
 - [Nico Kemp](https://github.com/njrkemp1/)
 - [Ali Rasouli]
+- [Xuanhui Lee](https://github.com/lxuanhui)
 - [vishesh Sharma](https://github.com/Vishesh3569)
 - [Steven Walker](https://github.com/stevenwalker91)
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
